@@ -7,7 +7,7 @@
 A high-performance, header-only JSON parser and serializer library designed for C++20. This library is optimized for real-time applications, such as game development, where speed and low memory overhead are crucial.
 
 
-```
+```lua
 question: is cpp 20 good for games?
 ```
 ChatGPT said:
