@@ -1,5 +1,11 @@
 # cpp_minagamedevelopment - A Collection of Information on C++20 for Game Design
 
+## A Collection of Minimal Mostly Header-Only Libraries and Information Specifically for Game Development in C++20
+
+### Libraries Included in this Repository
+A high-performance, header-only JSON parser and serializer library designed for C++20. This library is optimized for real-time applications, such as game development, where speed and low memory overhead are crucial.
+
+
 ```cpp
 question: is cpp 20 good for games?
 ```
