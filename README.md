@@ -19,20 +19,25 @@ Yes, C++20 is excellent for game development! It brings several new features and
 Concepts: Concepts allow for better compile-time checks and more readable code by defining constraints on template parameters. This can help in optimizing templates and reducing the compilation time, which is particularly useful in large game projects.
 Ranges: The Ranges library provides a new way to work with collections and algorithms in a more readable and composable manner, which can simplify code and make it easier to reason about performance characteristics.
 Coroutines: Coroutines in C++20 provide a powerful abstraction for writing asynchronous code, which is essential for game loops, networking, AI behaviors, and other real-time tasks. They help in writing more readable and maintainable code for asynchronous operations without the overhead of traditional thread management.
-2. Modern Language Features
+
+3. Modern Language Features
 Modules: Modules help in improving build times by replacing the traditional header file inclusion model with a more efficient binary module interface. This can significantly reduce compilation times in large codebases typical of game development.
 Constexpr Improvements: C++20 expands the capabilities of constexpr functions, allowing more complex computations at compile time. This can be used to precompute data and reduce runtime overhead, which is critical in performance-sensitive game applications.
 Three-way Comparison (Spaceship Operator <=>): The three-way comparison operator simplifies code that involves complex comparisons and ordering, making it easier to write concise and correct comparison logic, which is often required in game engines for sorting and organizing objects.
-3. Better Expressiveness and Safety
+
+5. Better Expressiveness and Safety
 Concepts and Constraints: Concepts allow for more readable and safer templates by specifying constraints. This can reduce errors and improve code readability, especially in template-heavy codebases like game engines.
 Enhanced constexpr and constinit: More flexible constexpr and the introduction of constinit ensure safer initialization of variables and prevent subtle bugs related to uninitialized or misinitialized variables.
 std::span: std::span provides a safer, more efficient way to handle array views and memory blocks, which are common in game development for representing slices of data.
-4. Cross-Platform Compatibility
+
+7. Cross-Platform Compatibility
 C++ is a highly portable language with support across all major platforms (Windows, Linux, macOS, consoles, etc.), and C++20 continues this tradition with no changes that would adversely affect cross-platform compatibility.
 New features like coroutines and modules are designed with portability in mind, which helps in maintaining a single codebase for games that target multiple platforms.
-5. Community and Ecosystem Support
+
+9. Community and Ecosystem Support
 C++ is one of the most widely used languages in game development, and C++20 is the latest iteration that many modern engines (like Unreal Engine, Unity with its native plugins, Godot with GDNative, etc.) and libraries are moving towards supporting. This ensures ongoing support, tutorials, libraries, and frameworks compatible with the latest C++ standards.
-6. Leveraging Existing Ecosystem
+
+11. Leveraging Existing Ecosystem
 Many popular game development libraries, such as glm (math library), Bullet (physics engine), STB (image loading), and Dear ImGui (GUI library), are fully compatible with C++20, allowing developers to use the latest language features with these established libraries.
 C++20 also works seamlessly with modern build systems like CMake, which further simplifies cross-platform builds and dependency management.
 Conclusion
