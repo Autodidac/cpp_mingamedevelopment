@@ -1,6 +1,5 @@
 # cpp_minagamedevelopment - A Collection of Information on C++20 for Game Development
 
----
 
 ## A Collection of Minimal Mostly Header-Only Libraries and Information Specifically for Game Development in C++20
 
