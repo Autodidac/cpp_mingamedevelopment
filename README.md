@@ -1,7 +1,7 @@
 # cpp_minagamedevelopment - A Collection of Information on C++20 for Game Design
 
 ```cpp
-is cpp 20 good for games?
+question: is cpp 20 good for games?
 ```
 ChatGPT said:
 Yes, C++20 is excellent for game development! It brings several new features and improvements that enhance both performance and developer productivity, making it a compelling choice for modern game engines and applications. Here’s why C++20 is well-suited for games:
