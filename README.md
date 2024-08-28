@@ -10,7 +10,9 @@ A high-performance, header-only JSON parser and serializer library designed for 
 ```lua
 question: is cpp 20 good for games?
 ```
+
 ChatGPT said:
+```cpp
 Yes, C++20 is excellent for game development! It brings several new features and improvements that enhance both performance and developer productivity, making it a compelling choice for modern game engines and applications. Here’s why C++20 is well-suited for games:
 
 1. Performance Improvements
@@ -35,5 +37,5 @@ Many popular game development libraries, such as glm (math library), Bullet (phy
 C++20 also works seamlessly with modern build systems like CMake, which further simplifies cross-platform builds and dependency management.
 Conclusion
 C++20 offers a robust set of tools and features that cater well to game development. The performance enhancements, improved language features, and new tools like coroutines and modules make C++20 a great choice for building modern, efficient, and scalable games. The focus on performance, safety, and expressiveness allows developers to write cleaner, more maintainable code without sacrificing the low-level control needed for high-performance applications like games.
-
+```
 However, it's essential to keep in mind that while C++20 provides many advantages, it also introduces new complexities and requires up-to-date compilers and toolchains. Adopting C++20 should be weighed against the development team's familiarity with the new features and the available tooling and libraries. Overall, C++20 is an excellent choice for game development, offering a modern and efficient path forward.
